@@ -1,0 +1,27 @@
+{
+  "name": "neumorphic-gauge-card",
+  "version": "1.0.0",
+  "description": "A beautiful neumorphic-styled gauge card for Home Assistant",
+  "main": "neumorphic-gauge-card.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/neumorphic-gauge-card.git"
+  },
+  "keywords": [
+    "home-assistant",
+    "lovelace",
+    "custom-card",
+    "neumorphism",
+    "gauge",
+    "hacs"
+  ],
+  "author": "Tommy Sadiq Hinrichsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/neumorphic-gauge-card/issues"
+  },
+  "homepage": "https://github.com/yourusername/neumorphic-gauge-card#readme"
+}
