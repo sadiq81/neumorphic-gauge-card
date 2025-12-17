@@ -26,7 +26,7 @@ A beautiful neumorphic-styled gauge card for Home Assistant with support for bot
 2. Go to HACS → Frontend
 3. Click the three dots in the top right corner
 4. Select "Custom repositories"
-5. Add this repository URL: `https://github.com/yourusername/neumorphic-gauge-card`
+5. Add this repository URL: `https://github.com/sadiq81/neumorphic-gauge-card`
 6. Category: `Lovelace`
 7. Click "Add"
 8. Click "Install" on the Neumorphic Gauge Card
@@ -34,7 +34,7 @@ A beautiful neumorphic-styled gauge card for Home Assistant with support for bot
 
 ### Manual Installation
 
-1. Download `neumorphic-gauge-card.js` from the [latest release](https://github.com/yourusername/neumorphic-gauge-card/releases)
+1. Download `neumorphic-gauge-card.js` from the [latest release](https://github.com/sadiq81/neumorphic-gauge-card/releases)
 2. Copy it to `<config>/www/neumorphic-gauge-card.js`
 3. Add the resource to your `configuration.yaml`:
 
@@ -346,7 +346,7 @@ Want to contribute? Great! Here's how to set up for development:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/neumorphic-gauge-card.git
+git clone https://github.com/sadiq81/neumorphic-gauge-card.git
 cd neumorphic-gauge-card
 
 # Link to your Home Assistant
@@ -360,7 +360,7 @@ ln -s $(pwd)/neumorphic-gauge-card.js /config/www/
 
 - Inspired by [Themesberg Neumorphism UI](https://github.com/themesberg/neumorphism-ui-bootstrap)
 - Design based on [neumorph.scss](https://github.com/ChemaAlfonso/neumorph.scss)
-- Created by [Tommy Sadiq Hinrichsen](https://github.com/yourusername)
+- Created by [Tommy Sadiq Hinrichsen](https://github.com/sadiq81)
 
 ## License
 
@@ -370,7 +370,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 If you like this card, please ⭐ star this repo!
 
-For issues and feature requests, please use [GitHub Issues](https://github.com/yourusername/neumorphic-gauge-card/issues).
+For issues and feature requests, please use [GitHub Issues](https://github.com/sadiq81/neumorphic-gauge-card/issues).
 
 ---
 
